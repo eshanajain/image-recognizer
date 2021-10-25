@@ -1,0 +1,30 @@
+.heading{
+    width :80%;
+    font-size: 22px;
+}
+body{
+    background-color:lightyellow;
+    color: darkorange;
+}
+.name_of_objects{
+    color:red;
+}
+.button_1{
+    background-color: deeppink;
+    color: lavender;
+}
+.button_2{
+    background-color: lightskyblue;
+    color: mediumblue;
+}
+#camera{
+    width: 350px;
+    height:300px;
+    border: 2px dashed lightgreen;
+}
+#result_object_name{
+    color: lime;
+}
+#result_object_accuracy{
+    color: orangered;
+}
